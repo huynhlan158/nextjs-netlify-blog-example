@@ -1,4 +1,3 @@
 [build]
-  node_version = "20.x"
   publish = "dist"
-  command = "npm run export"
+  command = "next build"
